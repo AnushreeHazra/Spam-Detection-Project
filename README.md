@@ -1,4 +1,3 @@
-# Spam-Detection-Project
 # Unified SMS and Email Spam Detection
 
 This is a GitHub-ready Streamlit project for **SMS and Email Spam Detection**.
